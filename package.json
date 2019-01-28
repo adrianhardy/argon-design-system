@@ -28,19 +28,19 @@
     "gulp-wait": "0.0.2",
     "postcss-flexbugs-fixes": "^3.3.1",
     "pump": "^3.0.0",
-    "run-sequence": "^2.2.1"
+    "run-sequence": "^2.2.1",
     "gulp-util": "^3.0.8"
   },
   "dependencies": {
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/argon-design-system/issues"
+    "url": "https://github.com/adrianhardy/argon-design-system/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/argon-design-system.git"
+    "url": "git+https://github.com/adrianhardy/argon-design-system.git"
   },
   "license": "MIT",
-  "homepage": "https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md"
+  "homepage": "https://github.com/adrianhardy/argon-design-system/blob/master/LICENSE.md"
 }
